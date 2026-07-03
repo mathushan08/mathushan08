@@ -20,7 +20,7 @@ This is a space where I share my academic projects, experiments, and things I'm 
 
 ### A Bit About Me
 
-*   🎓 Studying Industrial Management at the University of Kelaniya
+*   🎓 Studying Information Technology at the University of Kelaniya
 *   🏆 Part of the winning team at the Venture Verse 2025 founder hackathon
 *   💡 Built an Apartment Management System and an Airbnb Analytics Platform
 *   🧱 I like building things that are simple, structured, and highly efficient
